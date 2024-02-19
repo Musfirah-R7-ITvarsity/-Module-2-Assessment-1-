@@ -79,11 +79,10 @@ body{
 }
 
 /*========== MAIN ==========*/
-
 #main{
    margin-top       : 119px;
    background       : url(images/map-blur.png);
-   background-sizze : cover;
+   background-size  : cover;
    background-repeat: repeat-y;
 }
 #content{
